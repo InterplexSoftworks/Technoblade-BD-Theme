@@ -1,0 +1,8 @@
+{
+    "name": "Technoblade Theme",
+    "description": "A theme that resembles Technoblade.",
+    "version": "1.0",
+    "author": "Dalk#0001",
+    "license": "MIT",
+    "theme": "technoblade.theme.css"
+}
